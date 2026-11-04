@@ -1,10 +1,11 @@
 ######################## default configuration ####################
-# The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://example.org"
+# 실제 제가 사용하는 GitHub Pages 배포 URL과 저장소 이름의 경로를 지정했습니다.
+baseURL = "https://eunseo07211-lab.github.io/MyWebPage/"
 # Title of your website (required).
-title = "Hugoplate"
+title = "최은서의 포트폴리오 사이"
 # Your theme name
-# theme = "hugoplate"
+# 휴고 테마 폴더명과 관련하여 주석 기호를 제거했습니다.
+theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone = "America/New_York"
 # post excerpt
@@ -12,9 +13,11 @@ summaryLength = 10 # see https://gohugo.io/content-management/summaries/#automat
 # disable language
 disableLanguages = [
 ] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
-hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
+# 한국어(CJK) 기능을 켰습니다.
+hasCJKLanguage = true #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
 # default language
-defaultContentLanguage = 'en'
+# 사이트 언어 한국어로 변경하였습니다.
+defaultContentLanguage = 'ko'
 # defaultContentLanguageInSubdir need to be true if you want to use the language code as a subdirectory and language specific 404 page
 defaultContentLanguageInSubdir = false
 
