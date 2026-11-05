@@ -311,3 +311,6 @@ If you need a custom theme, theme customization, or complete website development
 
 ## 🔍 웹 표준 및 접근성 검증
 - 모바일 및 태블릿 등 다양한 디바이스 환경에서의 반응형 화면 테스트 완료 및 웹 접근성 기준 준수
+
+## 📝 오픈소스 라이선스 및 준수 사항
+- 본 프로젝트는 Hugoplate 오픈소스 템플릿을 기반으로 하였으며, 관련 라이선스 및 저작권 고지 지침을 준수하여 구성되었습니다.
