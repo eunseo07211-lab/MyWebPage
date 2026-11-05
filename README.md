@@ -303,5 +303,8 @@ If you need a custom theme, theme customization, or complete website development
 - **OS & Terminal**: Windows Desktop, VMware Workstation Pro (Ubuntu Linux), Git Bash, PowerShell
 - **IDE & Tools**: VS Code, IntelliJ IDEA Ultimate, Postman, Microsoft Office
 
-## 🚀 배포 및 자동화 (Deployment & CI/CD)
+## 🚀 배포 및 자동화 
 - **GitHub Pages & Actions**: 정적 사이트 빌드 자동화 스크립트를 연동하여 소스코드 푸시 시 실시간 배포 파이프라인 구축
+
+## 📈 향후 개선 및 확장 계획 
+- 클라우드 기반 백엔드 연동 강화, 사용자 인터랙션 고도화 및 다크모드/반응형 UI 최적화 지속 진행 예정
