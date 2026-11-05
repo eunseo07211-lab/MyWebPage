@@ -29,7 +29,7 @@ features:
   - title: "보유 역량과 적용 사례"
     image: "/images/service-2.png"
     image_alt: "역량 및 기술"
-    content: "전공 과목 실습 과정에서 직접 다루며 체득한 기술 스택과 주요 실습 적용 사례입니다."
+    content: "리눅스 프로그래밍 과제를 통해 C언어 바이너리 파일 DB를 다루고, fcntl 함수를 활용한 레코드 락 메커니즘을 구현하여 동시성 제어 및 시스템 프로그래밍 역량을 강화했습니다.\n\n![리눅스 fcntl 레코드 락 소스코드 실습 화면](/images/linux-fcntl.png)"
     bulletpoints:
       - "보유 역량 및 도구: Git Bash, PowerShell, VS Code, IntelliJ IDEA Ultimate, Postman, VMware Workstation Pro (Ubuntu Linux), C, Python, Java, Spring Boot, Vue.js, TypeScript, Tailwind CSS"
       - "핵심 기술 스택: Linux 시스템 프로그래밍, AWS 클라우드 인프라, REST API 및 JWT 인증, Git/GitHub Actions 자동 배포"
