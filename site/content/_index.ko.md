@@ -34,6 +34,7 @@ features:
       - "보유 역량 및 도구: Git Bash, PowerShell, VS Code, IntelliJ IDEA Ultimate, Postman, VMware Workstation Pro (Ubuntu Linux), C, Python, Java, Spring Boot, Vue.js"
       - "핵심 기술 스택: Linux 시스템 프로그래밍, AWS 클라우드 인프라, REST API 및 JWT 인증, Git/GitHub Actions 자동 배포"
       - "실습 및 프로젝트 적용 사례: 리눅스 프로그래밍 과제에서 C언어 기반 바이너리 파일 데이터베이스 및 fcntl 레코드 락 메커니즘을 구현하였습니다."
+- "기술적 의의: 다중 사용자/프로세스 환경에서 발생할 수 있는 데이터 경쟁 상태를 예방하고 파일 무결성을 보장하는 로직 검증을 위함입니다."
     button:
       enable: true
       label: "GitHub 계정 보기"
