@@ -235,7 +235,7 @@ include_sections = ["blog"]
 show_image = true
 show_description = true
 show_tags = true
-show_categories = true
+show_categories = true # 카테고리 및 태그 인덱싱 활성화
 
 # announcement
 # announcement module: https://github.com/gethugothemes/hugo-modules/tree/master/components/announcement
