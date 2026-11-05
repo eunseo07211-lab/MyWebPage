@@ -302,3 +302,6 @@ If you need a custom theme, theme customization, or complete website development
 ## 💻 개발 환경 및 사용 도구
 - **OS & Terminal**: Windows Desktop, VMware Workstation Pro (Ubuntu Linux), Git Bash, PowerShell
 - **IDE & Tools**: VS Code, IntelliJ IDEA Ultimate, Postman, Microsoft Office
+
+## 🚀 배포 및 자동화 (Deployment & CI/CD)
+- **GitHub Pages & Actions**: 정적 사이트 빌드 자동화 스크립트를 연동하여 소스코드 푸시 시 실시간 배포 파이프라인 구축
