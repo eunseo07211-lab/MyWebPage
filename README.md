@@ -1,3 +1,11 @@
+# 최은서의 개인 포트폴리오 웹사이트 (MyWebPage)
+- **학부/학번**: 전북대학교 컴퓨터인공지능학부 202413160 최은서
+- **배포 주소**: https://eunseo07211-lab.github.io/MyWebPage/
+
+---
+
+<h1 align="center">Hugo + Tailwind CSS Starter and Boilerplate</h1>
+... (이하 기존에 있던 원본 내용들 그대로 유지) ...
 <h1 align="center">Hugo + Tailwind CSS Starter and Boilerplate</h1>
 
 <p align="center">Hugoplate is a free starter template built with Hugo and Tailwind CSS v4.0, providing everything you need to jumpstart your Hugo project and save valuable time.</p>
