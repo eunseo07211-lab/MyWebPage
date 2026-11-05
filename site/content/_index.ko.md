@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: "GitHub 저장소 방문하기 🚀"
-    link: "https://github.com/eunseo07211/MyWebPage"
+    link: "https://github.com/eunseo07211-lab/MyWebPage"
 
 # Features
 features:
