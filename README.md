@@ -320,3 +320,6 @@ If you need a custom theme, theme customization, or complete website development
 
 ## ⚡ 성능 최적화 및 빌드 관리
 - 정적 사이트 Hugo의 캐싱 및 에셋 압축 기능을 활용한 빠른 페이지 로딩 환경 구축
+
+## 🛠️ 트러블슈팅 및 에러 대응 경험
+- 빌드 과정에서 발생한 다국어 설정 충돌 및 경로 이슈를 깃허브 액션 로그 분석을 통해 신속하게 진단하고 해결
