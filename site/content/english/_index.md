@@ -26,7 +26,7 @@ features:
       label: ""
       link: ""
 
-- title: "보유 역량과 적용 사례"
+  - title: "보유 역량과 적용 사례"
     image: "/images/service-2.png"
     image_alt: "역량 및 기술"
     content: "전공 과목 실습 과정에서 직접 다루며 체득한 기술 스택과 주요 실습 적용 사례입니다."
