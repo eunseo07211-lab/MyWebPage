@@ -101,6 +101,7 @@ We have included almost everything you need to start your Hugo project. Let's se
 
 ### 📦 Tech Stack
 - **System Programming**: C언어, Linux (Ubuntu), fcntl 시스템 콜 기반 파일 레코드 락 구현
+- **Software Engineering**: Git 기반 버전 관리 협업 워크플로우, 이슈 트래킹 및 브랜치 전략을 활용한 소프트웨어 생명주기 관리
 - [Hugo](https://gohugo.io/)
 - [Tailwind CSS v4.0](https://tailwindcss.com/)
 - [AutoPrefixer](https://autoprefixer.github.io/)
