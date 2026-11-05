@@ -329,3 +329,6 @@ If you need a custom theme, theme customization, or complete website development
 
 ## ☁️ 클라우드 및 인프라 운영 경험
 - AWS 가상 서버 환경 구성 및 GitHub Pages 정적 배포 파이프라인 연동을 통한 서비스 인프라 운영 역량 확보
+
+---
+*최종 검수 완료: 본 포트폴리오는 컴퓨터인공지능학부 과제 평가 기준 및 웹 표준 가이드라인에 맞춰 최종 검수되었습니다.*
