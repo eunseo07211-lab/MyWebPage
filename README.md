@@ -76,6 +76,7 @@ We have included almost everything you need to start your Hugo project. Let's se
 - 📝 Write and update content in Markdown
 - 💬 Open-Remark Comment
 - 🔳 Syntax Highlighting
+- **구현 특징**: 모바일 퍼스트 반응형 디자인 및 웹 표준 접근성 자동 충족 구조 적용
 
 ### 📄 15+ Pre-designed Pages
 
