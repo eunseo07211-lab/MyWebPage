@@ -26,14 +26,14 @@ features:
       label: ""
       link: ""
 
-  - title: "보유 역량과 적용 사례"
+- title: "보유 역량과 적용 사례"
     image: "/images/service-2.png"
     image_alt: "역량 및 기술"
-    content: "학업과 팀 프로젝트 과정에서 실제로 다루며 체득한 기술 스택과 보유 자격증입니다."
+    content: "전공 과목 실습 과정에서 직접 다루며 체득한 기술 스택과 주요 실습 적용 사례입니다."
     bulletpoints:
-      - "보유 역량 및 도구: Git Bash, Python, Java, Spring Boot, Vue.js, TypeScript, Tailwind CSS, SQLite, IntelliJ, Vim"
-      - "자격증: ITQ 자격증 A등급, 인명구조사 자격증 취득, 한국사능력검정시험 2급"
-      - "적용 사례: UniPick 프로젝트에서 프론트엔드 개발 및 UX 디자인을 맡아 공고 검색, 맞춤 추천, 지원 현황 관리 대시보드 화면을 구현함"
+      - "보유 역량 및 도구: Git Bash, PowerShell, VS Code, IntelliJ IDEA Ultimate, Postman, VMware Workstation Pro (Ubuntu Linux), C, Python, Java, Spring Boot, Vue.js, TypeScript, Tailwind CSS"
+      - "핵심 기술 스택: Linux 시스템 프로그래밍, AWS 클라우드 인프라, REST API 및 JWT 인증, Git/GitHub Actions 자동 배포"
+      - "실습 및 프로젝트 적용 사례: 리눅스 프로그래밍 과제에서 C언어 기반 바이너리 파일 데이터베이스 및 fcntl 레코드 락 메커니즘을 구현하였습니다."
     button:
       enable: true
       label: "GitHub 계정 보기"
