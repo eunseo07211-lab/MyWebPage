@@ -317,3 +317,6 @@ If you need a custom theme, theme customization, or complete website development
 
 ## 🌿 버전 관리 및 브랜치 전략
 - Git 및 GitHub를 활용한 기능별 브랜치 분기, 커밋 메시지 컨벤션 준수 및 형상 관리 프로세스 적용
+
+## ⚡ 성능 최적화 및 빌드 관리
+- 정적 사이트 Hugo의 캐싱 및 에셋 압축 기능을 활용한 빠른 페이지 로딩 환경 구축
