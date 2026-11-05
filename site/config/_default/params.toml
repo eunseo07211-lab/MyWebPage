@@ -37,9 +37,9 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = true
+enable = false
 label = "My GitHub"
-link = "https://github.com/eunseo07211/MyWebPage"
+link = "https://github.com/eunseo07211-lab/MyWebPage"
 
 # LLMs Configuration
 # LLMs module: https://github.com/gethugothemes/hugo-modules/tree/master/llms-txt
