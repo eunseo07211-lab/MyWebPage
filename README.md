@@ -308,3 +308,6 @@ If you need a custom theme, theme customization, or complete website development
 
 ## 📈 향후 개선 및 확장 계획 
 - 클라우드 기반 백엔드 연동 강화, 사용자 인터랙션 고도화 및 다크모드/반응형 UI 최적화 지속 진행 예정
+
+## 🔍 웹 표준 및 접근성 검증
+- 모바일 및 태블릿 등 다양한 디바이스 환경에서의 반응형 화면 테스트 완료 및 웹 접근성 기준 준수
