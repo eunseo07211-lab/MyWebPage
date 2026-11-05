@@ -326,3 +326,6 @@ If you need a custom theme, theme customization, or complete website development
 
 ## 🎨 UI/UX 디자인 및 접근성 기조
 - 사용자 중심의 직관적인 레이아웃 배치, 다크모드 대응 및 반응형 웹 인터페이스 디자인 원칙 준수
+
+## ☁️ 클라우드 및 인프라 운영 경험
+- AWS 가상 서버 환경 구성 및 GitHub Pages 정적 배포 파이프라인 연동을 통한 서비스 인프라 운영 역량 확보
