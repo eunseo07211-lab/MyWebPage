@@ -314,3 +314,6 @@ If you need a custom theme, theme customization, or complete website development
 
 ## 📝 오픈소스 라이선스 및 준수 사항
 - 본 프로젝트는 Hugoplate 오픈소스 템플릿을 기반으로 하였으며, 관련 라이선스 및 저작권 고지 지침을 준수하여 구성되었습니다.
+
+## 🌿 버전 관리 및 브랜치 전략
+- Git 및 GitHub를 활용한 기능별 브랜치 분기, 커밋 메시지 컨벤션 준수 및 형상 관리 프로세스 적용
