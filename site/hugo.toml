@@ -209,7 +209,7 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = true
+enable = false
 label = "My GitHub"
 link = "https://github.com/eunseo07211-lab/MyWebPage"
 
