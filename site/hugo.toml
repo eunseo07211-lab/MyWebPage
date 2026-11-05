@@ -247,8 +247,8 @@ content = ""
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["전북대학교", "컴퓨터인공지능학부", "최은서", "포트폴리오"]
-description = "전북대학교 컴퓨터인공지능학부 202413160 최은서 개인 포트폴리오 웹사이트 - 시스템 프로그래밍 및 웹 개발 역량 소개"
+keywords = ["전북대학교", "컴퓨터인공지능학부", "최은서", "포트폴리오", "시스템프로그래밍", "웹개발"]
+description = "전북대학교 컴퓨터인공지능학부 202413160 최은서 개인 포트폴리오 웹사이트 - 시스템 프로그래밍, 클라우드, 웹 서비스 디자인 성과 기록"
 author = "최은서"
 twitter = "eunseo07211"
 image = "images/og-image.png"
