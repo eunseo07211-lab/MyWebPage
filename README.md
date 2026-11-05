@@ -96,7 +96,7 @@ We have included almost everything you need to start your Hugo project. Let's se
 - 🔍 Search
 
 ### 📦 Tech Stack
-
+- **System Programming**: C언어, Linux (Ubuntu), fcntl 시스템 콜 기반 파일 레코드 락 구현
 - [Hugo](https://gohugo.io/)
 - [Tailwind CSS v4.0](https://tailwindcss.com/)
 - [AutoPrefixer](https://autoprefixer.github.io/)
