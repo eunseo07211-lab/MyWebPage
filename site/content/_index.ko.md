@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "컴퓨터인공지능학부 202413160 최은서"
-  content: "~반갑습니다~"
+  content: "전공 역량과 실무 프로젝트를 담은 포트폴리오 사이트입니다."
   image: "/images/banner.png"
   image_alt: "포트폴리오 메인"
   button:
