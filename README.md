@@ -298,3 +298,7 @@ If you need a custom theme, theme customization, or complete website development
 
 ## 🎓 주요 이수 전공 과목
 - **컴퓨터인공지능학부 전공**: 리눅스프로그래밍, 클라우드 컴퓨팅, 소프트웨어 공학, 웹 서비스 설계, 초급 프로젝트
+
+## 💻 개발 환경 및 사용 도구
+- **OS & Terminal**: Windows Desktop, VMware Workstation Pro (Ubuntu Linux), Git Bash, PowerShell
+- **IDE & Tools**: VS Code, IntelliJ IDEA Ultimate, Postman, Microsoft Office
