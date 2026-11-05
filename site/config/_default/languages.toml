@@ -1,9 +1,9 @@
-defaultContentLanguage = "ko"
-languageCode = "ko-KR"
+[ko]
 languageName = "Korean"
+languageCode = "ko-KR"
 weight = 1
 
-[languages.ko]
-languageName = "Korean"
-languageCode = "ko-KR"
-weight = 1
+[en]
+languageName = "English"
+languageCode = "en-US"
+weight = 2
