@@ -37,7 +37,7 @@ features:
     button:
       enable: true
       label: "GitHub 계정 보기"
-      link: "https://github.com/eunseo07211"
+      link: "https://github.com/eunseo07211-lab"
 
   - title: "대표 활동 및 프로젝트 (퍼시즈챗)"
     image: "/images/service-3.png"
