@@ -1,3 +1,4 @@
+---
 # Banner
 banner:
   title: "컴퓨터인공지능학부 202413160 최은서 포트폴리오"
@@ -31,7 +32,7 @@ features:
     content: "학업과 팀 프로젝트 과정에서 실제로 다루며 체득한 기술 스택과 보유 자격증입니다."
     bulletpoints:
       - "보유 역량 및 도구: Git Bash, Python, Java, Spring Boot, Vue.js, TypeScript, Tailwind CSS, SQLite, IntelliJ, Vim"
-      - "자격증: ITQ 자격증 A등급"
+      - "자격증: ITQ 자격증 A등급, 인명구조사 자격증 취득, 한국사능력검정시험 2급"
       - "적용 사례: UniPick 프로젝트에서 프론트엔드 개발 및 UX 디자인을 맡아 공고 검색, 맞춤 추천, 지원 현황 관리 대시보드 화면을 구현함"
     button:
       enable: true
@@ -53,3 +54,4 @@ features:
       enable: false
       label: ""
       link: ""
+---
