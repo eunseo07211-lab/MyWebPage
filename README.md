@@ -323,3 +323,6 @@ If you need a custom theme, theme customization, or complete website development
 
 ## 🛠️ 트러블슈팅 및 에러 대응 경험
 - 빌드 과정에서 발생한 다국어 설정 충돌 및 경로 이슈를 깃허브 액션 로그 분석을 통해 신속하게 진단하고 해결
+
+## 🎨 UI/UX 디자인 및 접근성 기조
+- 사용자 중심의 직관적인 레이아웃 배치, 다크모드 대응 및 반응형 웹 인터페이스 디자인 원칙 준수
