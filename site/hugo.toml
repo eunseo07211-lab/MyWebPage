@@ -2,7 +2,7 @@
 # 실제 제가 사용하는 GitHub Pages 배포 URL과 저장소 이름의 경로를 지정했습니다.
 baseURL = "https://eunseo07211-lab.github.io/MyWebPage/"
 # Title of your website (required).
-title = "최은서의 포트폴리오 사이트"
+title = "최은서의 전북대학교 컴퓨터인공지능학부 포트폴리오"
 # Your theme name
 # 휴고 테마 폴더명과 관련하여 주석 기호를 제거했습니다.
 theme = "hugoplate"
@@ -200,7 +200,7 @@ google_adsense = ""      # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Copyright © 2026. 전북대학교 최은서. All Rights Reserved."
+copyright = "Copyright © 2026 전북대학교 컴퓨터인공지능학부 최은서 (202413160). All Rights Reserved."
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
