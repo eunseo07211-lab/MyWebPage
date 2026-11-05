@@ -295,3 +295,6 @@ Don't forget to add yours.
 ## 💻 Need Customization?
 
 If you need a custom theme, theme customization, or complete website development services from scratch, you can [Hire Us](https://zeon.studio/estimate-project).
+
+## 🎓 주요 이수 전공 과목
+- **컴퓨터인공지능학부 전공**: 리눅스프로그래밍, 클라우드 컴퓨팅, 소프트웨어 공학, 웹 서비스 설계, 초급 프로젝트
