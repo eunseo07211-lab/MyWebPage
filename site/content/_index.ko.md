@@ -31,7 +31,7 @@ features:
     image_alt: "역량 및 기술"
     content: "리눅스 프로그래밍 과제를 통해 C언어 바이너리 파일 DB를 다루고, fcntl 함수를 활용한 레코드 락 메커니즘을 구현하여 동시성 제어 및 시스템 프로그래밍 역량을 강화했습니다.\n\n![리눅스 fcntl 레코드 락 소스코드 실습 화면](/images/linux-fcntl.png)"
     bulletpoints:
-      - "보유 역량 및 도구: Git Bash, PowerShell, VS Code, IntelliJ IDEA Ultimate, Postman, VMware Workstation Pro (Ubuntu Linux), C, Python, Java, Spring Boot, Vue.js, TypeScript, Tailwind CSS"
+      - "보유 역량 및 도구: Git Bash, PowerShell, VS Code, IntelliJ IDEA Ultimate, Postman, VMware Workstation Pro (Ubuntu Linux), C, Python, Java, Spring Boot, Vue.js"
       - "핵심 기술 스택: Linux 시스템 프로그래밍, AWS 클라우드 인프라, REST API 및 JWT 인증, Git/GitHub Actions 자동 배포"
       - "실습 및 프로젝트 적용 사례: 리눅스 프로그래밍 과제에서 C언어 기반 바이너리 파일 데이터베이스 및 fcntl 레코드 락 메커니즘을 구현하였습니다."
     button:
