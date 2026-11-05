@@ -2,7 +2,7 @@
 # 실제 제가 사용하는 GitHub Pages 배포 URL과 저장소 이름의 경로를 지정했습니다.
 baseURL = "https://eunseo07211-lab.github.io/MyWebPage/"
 # Title of your website (required).
-title = "최은서의 포트폴리오 사이"
+title = "최은서의 포트폴리오 사이트"
 # Your theme name
 # 휴고 테마 폴더명과 관련하여 주석 기호를 제거했습니다.
 theme = "hugoplate"
