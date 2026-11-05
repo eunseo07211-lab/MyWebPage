@@ -59,6 +59,7 @@
 - [Guide to Staying Compliant](#-guide-to-staying-compliant)
 - [Showcase](#-showcase)
 - [Need Customization?](#-need-customization)
+- **Frontend & Web Projects**: Vue.js 기반 TMDB 웹 애플리케이션 구축, GitHub Actions 자동화 배포, 채용 정보 플랫폼 프론트엔드 및 UX 디자인 주도
 
 ## 🎁 What's Included
 
